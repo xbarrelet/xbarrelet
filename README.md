@@ -20,4 +20,4 @@ Welcome to my humble Github account! You'll find here :
 You can visit the website here : https://letsfindamovie.com
   
   
-I'm currently looking for some remote work, my linkedIn :  https://www.linkedin.com/in/xavier-barrelet/
+I'm currently looking for some remote work, my Upwork profile: https://www.upwork.com/freelancers/~01a7e4d1f5ebce66f4 and my linkedIn :  https://www.linkedin.com/in/xavier-barrelet/
