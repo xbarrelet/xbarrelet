@@ -2,9 +2,10 @@ Welcome to my humble Github account! You'll find here :
 
 - An ongoing project about automatically optimizing algorithmic financial strategies using Reactor composed by:
   - quotes-importer : Import quotes from Finnhub on which to backtest the strategies
-  - ta4j : Enriched open-source Java library for technical analysis (mainly used for technical indicators)
-  - backtester : Backtest the algorithmic financial strategies on the quotes by basically bruteforcing different parameters (using limits in annotations)
+  - ta4j : Enriched open-source Java library for technical analysis (mainly used for its technical indicators)
+  - backtester : Backtest the algorithmic financial strategies on the quotes by basically bruteforcing different parameters (using limits in Java annotations)
   - results-analyzer: not implemented yet, will analyze the results of the backtester to determine which combinations of parameters are the best
+  - tradingbot: A tradingbot using Akka to test the resulting strategies in real conditions through a Paper trading api (Alpaca)
   
 - The components of the website letsfindamovie.com that uses a CQRS architecture and everything is reactive. Made of:
   - movies-manager : Source of truth of the system that loads from csv the movies, tags and ratings and serves them to the caches
@@ -15,11 +16,11 @@ Welcome to my humble Github account! You'll find here :
   - cache-ratings-manager: Cache of ratings coded in Scala using Akka and Play as framework, with Eventstore as a datastore (event sourcing)
   - movies-explorer-webapp: React/Redux/RxJs webapp with minimalist design to consult and edit movies/tags/ratings + to consult Grafana dashboards about the state of every components (technical + business) + a diagram of the architecture with the link to this repo
   - k8: Scripts and configuration to start clusters locally and on Google Kubernetes Engine with every components
-  - docker: Scripts to load the components in Docker, mostly for test
+  - docker: Scripts to load the components in Docker, mostly for tests
 
 - Redis-tester : Tests of different frameworks and java Redis clients for a project of GVentures LLC Service.
   
-You can visit the website here : https://letsfindamovie.com. If it redirects to this page you can always ask me to put it up online again on GKE.
+My website https://letsfindamovie.com is not currently up due to costs but can be instantiated on GKE on-demand.
   
   
 I'm currently looking for some remote work, my Upwork profile: https://www.upwork.com/freelancers/~01a7e4d1f5ebce66f4 and my linkedIn :  https://www.linkedin.com/in/xavier-barrelet/
