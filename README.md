@@ -1,4 +1,4 @@
-Welcome to my humble Github account! You'll find here :
+Welcome to my humble Github account! You'll find in the public space:
 
 - An ongoing project about automatically optimizing algorithmic financial strategies using Reactor composed by:
   - quotes-importer : Import quotes from Finnhub on which to backtest the strategies
