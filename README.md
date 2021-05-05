@@ -18,7 +18,7 @@ Welcome to my humble Github account! You'll find in the public space:
   - k8: Scripts and configuration to start clusters locally and on Google Kubernetes Engine with every components
   - docker: Scripts to load the components in Docker, mostly for tests
 
-- Redis-tester : Tests of different frameworks and java Redis clients for a project of GVentures LLC Service.
+- Redis-tester : Performance tests with Gatling of different Java frameworks and Redis clients for a project of GVentures LLC Service.
   
 My website https://letsfindamovie.com is not currently up due to costs but can be instantiated on GKE on-demand.
   
