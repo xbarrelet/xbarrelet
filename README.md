@@ -22,5 +22,4 @@ Welcome to my humble Github account! You'll find in the public space:
   
 My website https://letsfindamovie.com is not currently up due to costs but can be instantiated on GKE on-demand.
   
-  
-I'm currently looking for some remote work, my Upwork profile: https://www.upwork.com/freelancers/~01a7e4d1f5ebce66f4 and my linkedIn :  https://www.linkedin.com/in/xavier-barrelet/
+I'm a freelancer always interested in new projects, my Upwork profile: https://www.upwork.com/freelancers/~01a7e4d1f5ebce66f4 and my linkedIn :  https://www.linkedin.com/in/xavier-barrelet/
