@@ -1,6 +1,6 @@
 Welcome to my humble Github account! You'll find in the public space:
 
-An ongoing project about a system that automatically optimizes algorithmic financial strategies and test them using a paper trading API composed by:
+A project about a system that automatically optimizes algorithmic financial strategies and test them using a paper trading API composed by:
 - quotes-importer : Imports quotes and historical data from providers on which to backtest the strategies
 - ta4j : Enriched open-source Java library for technical analysis (mainly used for its technical indicators)
 - backtester : Backtests the algorithmic financial strategies on the quotes by basically bruteforcing different parameters (using dedicated Java annotations)
@@ -18,8 +18,15 @@ The components of the website letsfindamovie.com that uses a CQRS architecture a
   - k8: Scripts and configuration to start the system in Kubernete clusters locally and on Google Cloud
   - docker: Scripts to load the components in Docker as a dev/test environment
 
-- Redis-tester : Performance tests with Gatling of different Java frameworks and Redis clients for a project of GVentures LLC Service.
-  
-My website https://letsfindamovie.com is not currently up due to costs but can be instantiated on GKE on-demand.
-  
+images-classifier: 
+  - A Flask service that downloads a pre-trained ML model and then use it to get the classification score of new images
+  - Some scripts using AWS SageMaker to train a ML model, save it on S3 and then deploy it on a SageMaker Endpoint  
+
+Redis-tester : Performance tests with Gatling of different Java frameworks and Redis clients for a project of GVentures LLC Service.
+
+pypetter-docker: An example of how to make pyppeter run in docker
+
+front-archetype: An archetype of a React/Redux webapp with Webpack and Babel to help kickstart frontend projects
+
+
 I'm a freelancer always interested in new projects, my Upwork profile: https://www.upwork.com/freelancers/~01a7e4d1f5ebce66f4 and my linkedIn :  https://www.linkedin.com/in/xavier-barrelet/
