@@ -19,8 +19,8 @@ The components of the website letsfindamovie.com that uses a CQRS architecture a
   - docker: Scripts to load the components in Docker as a dev/test environment
 
 images-classifier: 
-  - A Flask service that downloads a pre-trained ML model and then use it to get the classification score of new images
-  - Some scripts using AWS SageMaker to train a ML model, save it on S3 and then deploy it on a SageMaker Endpoint  
+  - A Flask service that downloads a pre-trained ML model using Pytorch and then use it to get the classification score of new images
+  - Some scripts using AWS SageMaker to train a ML model using Pytorch, save it on S3 and then deploy it on a SageMaker Endpoint  
 
 Redis-tester : Performance tests with Gatling of different Java frameworks and Redis clients for a project of GVentures LLC Service.
 
