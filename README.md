@@ -28,5 +28,9 @@ pypetter-docker: An example of how to make pyppeter run in docker
 
 front-archetype: An archetype of a React/Redux webapp with Webpack and Babel to help kickstart frontend projects
 
+ml-project-*: The projects realized for my Master thesis.
+
+And more :)
+
 
 I'm a freelancer always interested in new projects, my Upwork profile: https://www.upwork.com/freelancers/~01a7e4d1f5ebce66f4 and my linkedIn :  https://www.linkedin.com/in/xavier-barrelet/
