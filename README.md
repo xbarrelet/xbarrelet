@@ -23,10 +23,6 @@ Currently working as a Senior Software Engineer/Cloud Architect while building a
 **Data:** PostgreSQL • Redis • MongoDB • Apache Kafka • ElasticSearch  
 **Frontend:** React • Redux • Modern Web Development  
 
-## 📈 GitHub Stats
-
-![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbarrelet&show_icons=true&theme=dark)
-
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/xbarrelet)
